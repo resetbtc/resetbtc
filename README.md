@@ -39,6 +39,8 @@ Whisper · ffmpeg/NVENC · Riot API · Stripe · OBS · Claude & Gemini APIs
 <img src="https://github-readme-stats.vercel.app/api?username=resetbtc&show_icons=true&count_private=true&hide_border=true&bg_color=060708&title_color=40f2fe&text_color=eef0f2&icon_color=40f2fe" alt="stats" height="170">
 <img src="https://streak-stats.demolab.com?user=resetbtc&hide_border=true&background=060708&ring=40f2fe&fire=40f2fe&currStreakLabel=40f2fe&sideLabels=eef0f2&currStreakNum=eef0f2&sideNums=eef0f2&dates=a6abae" alt="streak" height="170">
 
+<img src="https://raw.githubusercontent.com/resetbtc/resetbtc/output/github-snake-dark.svg" alt="snake" width="100%">
+
 </div>
 
 **Before this:** built [ROX Madrid](https://roxmadrid.com), a hostel in Madrid, and the property-management software it runs on — dynamic pricing engine included. Self-taught, trading markets since 14.
